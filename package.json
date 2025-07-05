@@ -1,7 +1,9 @@
 {
   "type": "module",
   "dependencies": {
+    "@raydium-io/raydium-sdk-v2": "^0.1.141-alpha",
     "@solana/spl-memo": "^0.2.5",
+    "@solana/spl-token": "^0.4.13",
     "@solana/web3.js": "^1.98.2",
     "fs": "^0.0.1-security"
   }
